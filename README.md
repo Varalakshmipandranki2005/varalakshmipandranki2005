@@ -16,10 +16,10 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Pursuing **B.Tech in Information Technology** at Vignan's Institute of Information Technology (CGPA: 9.3)
-- 💼 Former **Full Stack Developer Intern** at RINL Visakhapatnam
-- 🏆 **Runner-Up** at a National Level Blockchain Hackathon (2024)
-- 🌱 Currently exploring **Web3**, **AI-powered apps**, and **scalable backend systems**
+-  Pursuing **B.Tech in Information Technology** at Vignan's Institute of Information Technology (CGPA: 9.3)
+-  Former **Full Stack Developer Intern** at RINL Visakhapatnam
+-  **Runner-Up** at a National Level Blockchain Hackathon (2024)
+-  Currently exploring **Web3**, **AI-powered apps**, and **scalable backend systems**
 - 🇮🇳 Based in India
 
 ---
